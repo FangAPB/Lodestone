@@ -1,4 +1,4 @@
-Spams the coords in your chat
+Retrieves coordinates from the lodestone compass your are holding. Spams the coords in your chat
 
 ChatGPT did this for me it's super scuffed and it's meant to be a meteor module for the Minecraft 1.21.4.
 
